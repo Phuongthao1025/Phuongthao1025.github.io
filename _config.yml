@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""C:\Users\miumi\Downloads\Phuongthao1025.github.io\images\avatar.jpg""
+  avatar           : "/images/avatar.jpg"
   name             : "Phuong Thao"
   pronouns         : # example: "she/her"  
   bio              : "Đam mê lập trình nhúng và thiết kế hệ thống giám sát nhiệt độ."
