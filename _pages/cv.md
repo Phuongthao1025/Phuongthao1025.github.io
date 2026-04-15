@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Học vấn
+* **Trường Đại học [hoc vien cong nghe buu chinh vien thong]** *Chuyên ngành: [cong nghe internet van vat IoT]* *Thời gian: 2023 - Nay*
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Kỹ năng chuyên môn
+| Nhóm kỹ năng | Chi tiết |
+| :--- | :--- |
+| **Lập trình** | C/C++, Java, HTML/CSS |
+| **Phần mềm** | Arduino IDE, Git/GitHub, Office |
+| **Ngoại ngữ** | Tiếng Anh (Giao tiếp cơ bản) |
+| **Kỹ năng mềm** | Làm việc nhóm, Giải quyết vấn đề |
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Dự án tiêu biểu
+### Dự án đo nhiệt độ và độ ẩm
+* **Mô tả:** Xây dựng hệ thống giám sát môi trường thời gian thực sử dụng cảm biến và vi điều khiển.
+* **Công nghệ sử dụng:** Arduino, cảm biến DHT11.
+* **Vai trò:** Trưởng nhóm, lập trình thuật toán xử lý dữ liệu.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Website Portfolio cá nhân
+* **Mô tả:** Thiết lập và tùy chỉnh trang web cá nhân để trình bày hồ sơ năng lực.
+* **Công nghệ sử dụng:** GitHub Pages, Jekyll, Markdown.
